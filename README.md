@@ -35,7 +35,7 @@ Volumes :
 - Model : monté sur le service batch  
 
 Intégration continue :
-- Github action : à chque git push, build et transfert sur Dockerhub des images api et batch 
+- Github action : à chaque git push, build et transfert sur Dockerhub des images api et batch 
 
 5 - Arborescence du projet  
 .github/workflows : Github actions de CI  
