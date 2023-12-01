@@ -8,7 +8,7 @@ Ce projet a pour but de mettre en place le MVP d'une application permettant de p
 Il n'y a pas de pré-requis, il faut juste cloner le projet et lancer le script start_api.sh :  
 ```
     git init
-    git clone https://github.com/Zenobiatoon/ConsoPredict
+    git clone https://github.com/Zenobiatoon/Projet_ConsoPredict
     cd ConsoPredict
     ./start_api.sh
 ```
