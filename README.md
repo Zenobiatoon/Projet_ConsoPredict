@@ -9,7 +9,7 @@ Il n'y a pas de pré-requis, il faut juste cloner le projet et lancer le script 
 ```
     git init
     git clone https://github.com/Zenobiatoon/Projet_ConsoPredict
-    cd ConsoPredict
+    cd Projet_ConsoPredict
     ./start_api.sh
 ```
 Les images Docker seront récupérées de Dockerhub et la base de données sera créée et initialisée automatiquement  
